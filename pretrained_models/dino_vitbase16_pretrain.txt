@@ -1,0 +1,2 @@
+Download dino_vitbase16_pretrain.pth here
+https://github.com/facebookresearch/dino
